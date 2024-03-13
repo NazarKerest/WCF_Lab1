@@ -1,0 +1,1460 @@
+{
+  "@aashutoshrathi/word-wrap@1.2.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/aashutoshrathi/word-wrap",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@aashutoshrathi\\word-wrap",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@aashutoshrathi\\word-wrap\\LICENSE"
+  },
+  "@ckeditor/ckeditor5-alignment@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-alignment",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-alignment\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-autosave@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-autosave",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-autosave\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-basic-styles@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-basic-styles",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-basic-styles\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-block-quote@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-block-quote",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-block-quote\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-clipboard@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-clipboard",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-clipboard\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-code-block@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-code-block",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-code-block\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-core@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-core",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-core\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-editor-classic@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-editor-classic",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-editor-classic\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-engine@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-engine",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-engine\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-enter@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-enter",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-enter\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-essentials@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-essentials",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-essentials\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-font@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-font",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-font\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-heading@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-heading",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-heading\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-highlight@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-highlight",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-highlight\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-horizontal-line@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-horizontal-line",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-horizontal-line\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-html-embed@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-html-embed",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-html-embed\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-image@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-image",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-image\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-indent@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-indent",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-indent\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-inspector@4.1.0": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5-inspector",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-inspector",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-inspector\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-link@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-link",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-link\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-list@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-list",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-list\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-mention@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-mention",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-mention\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-paragraph@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-paragraph",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-paragraph\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-paste-from-office@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-paste-from-office",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-paste-from-office\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-remove-format@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-remove-format",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-remove-format\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-select-all@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-select-all",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-select-all\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-table@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-table",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-table\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-theme-lark@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-theme-lark",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-theme-lark\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-typing@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-typing",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-typing\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-ui@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-ui",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-ui\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-undo@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-undo",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-undo\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-upload@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-upload",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-upload\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-utils@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-utils",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-utils\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-watchdog@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-watchdog",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-watchdog\\LICENSE.md"
+  },
+  "@ckeditor/ckeditor5-widget@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-widget",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@ckeditor\\ckeditor5-widget\\LICENSE.md"
+  },
+  "@esbuild/win32-x64@0.19.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/evanw/esbuild",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@esbuild\\win32-x64",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@esbuild\\win32-x64\\README.md"
+  },
+  "@eslint-community/eslint-utils@4.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/eslint-community/eslint-utils",
+    "publisher": "Toru Nagashima",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@eslint-community\\eslint-utils",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@eslint-community\\eslint-utils\\LICENSE"
+  },
+  "@eslint-community/regexpp@4.6.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/eslint-community/regexpp",
+    "publisher": "Toru Nagashima",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@eslint-community\\regexpp",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@eslint-community\\regexpp\\LICENSE"
+  },
+  "@eslint/eslintrc@2.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/eslint/eslintrc",
+    "publisher": "Nicholas C. Zakas",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@eslint\\eslintrc",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@eslint\\eslintrc\\LICENSE"
+  },
+  "@eslint/js@8.48.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/eslint/eslint",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@eslint\\js",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@eslint\\js\\LICENSE"
+  },
+  "@googlemaps/markerclusterer@2.0.15": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/googlemaps/js-markerclusterer",
+    "publisher": "Justin Poehnelt",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@googlemaps\\markerclusterer",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@googlemaps\\markerclusterer\\LICENSE"
+  },
+  "@humanwhocodes/config-array@0.11.10": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/humanwhocodes/config-array",
+    "publisher": "Nicholas C. Zakas",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@humanwhocodes\\config-array",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@humanwhocodes\\config-array\\LICENSE"
+  },
+  "@humanwhocodes/module-importer@1.0.1": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/humanwhocodes/module-importer",
+    "publisher": "Nicholas C. Zaks",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@humanwhocodes\\module-importer",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@humanwhocodes\\module-importer\\LICENSE"
+  },
+  "@humanwhocodes/object-schema@1.2.1": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/humanwhocodes/object-schema",
+    "publisher": "Nicholas C. Zakas",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@humanwhocodes\\object-schema",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@humanwhocodes\\object-schema\\LICENSE"
+  },
+  "@nodelib/fs.scandir@2.1.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.scandir",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@nodelib\\fs.scandir",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@nodelib\\fs.scandir\\LICENSE"
+  },
+  "@nodelib/fs.stat@2.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.stat",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@nodelib\\fs.stat",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@nodelib\\fs.stat\\LICENSE"
+  },
+  "@nodelib/fs.walk@1.2.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.walk",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@nodelib\\fs.walk",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@nodelib\\fs.walk\\LICENSE"
+  },
+  "@types/facebook-js-sdk@3.3.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@types\\facebook-js-sdk",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@types\\facebook-js-sdk\\LICENSE"
+  },
+  "@types/google.maps@3.54.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@types\\google.maps",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@types\\google.maps\\LICENSE"
+  },
+  "@types/jquery@3.5.18": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@types\\jquery",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@types\\jquery\\LICENSE"
+  },
+  "@types/json-schema@7.0.12": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@types\\json-schema",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@types\\json-schema\\LICENSE"
+  },
+  "@types/pica@5.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@types\\pica",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@types\\pica\\LICENSE"
+  },
+  "@types/prismjs@1.26.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@types\\prismjs",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@types\\prismjs\\LICENSE"
+  },
+  "@types/semver@7.5.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@types\\semver",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@types\\semver\\LICENSE"
+  },
+  "@types/sizzle@2.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@types\\sizzle",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@types\\sizzle\\LICENSE"
+  },
+  "@types/twitter-for-web@0.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@types\\twitter-for-web",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@types\\twitter-for-web\\LICENSE"
+  },
+  "@types/zxcvbn@4.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@types\\zxcvbn",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@types\\zxcvbn\\LICENSE"
+  },
+  "@typescript-eslint/eslint-plugin@6.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/typescript-eslint/typescript-eslint",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@typescript-eslint\\eslint-plugin",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@typescript-eslint\\eslint-plugin\\LICENSE"
+  },
+  "@typescript-eslint/parser@6.5.0": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/typescript-eslint/typescript-eslint",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@typescript-eslint\\parser",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@typescript-eslint\\parser\\LICENSE"
+  },
+  "@typescript-eslint/scope-manager@6.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/typescript-eslint/typescript-eslint",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@typescript-eslint\\scope-manager",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@typescript-eslint\\scope-manager\\LICENSE"
+  },
+  "@typescript-eslint/type-utils@6.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/typescript-eslint/typescript-eslint",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@typescript-eslint\\type-utils",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@typescript-eslint\\type-utils\\LICENSE"
+  },
+  "@typescript-eslint/types@6.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/typescript-eslint/typescript-eslint",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@typescript-eslint\\types",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@typescript-eslint\\types\\LICENSE"
+  },
+  "@typescript-eslint/typescript-estree@6.5.0": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/typescript-eslint/typescript-eslint",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@typescript-eslint\\typescript-estree",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@typescript-eslint\\typescript-estree\\LICENSE"
+  },
+  "@typescript-eslint/utils@6.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/typescript-eslint/typescript-eslint",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@typescript-eslint\\utils",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@typescript-eslint\\utils\\LICENSE"
+  },
+  "@typescript-eslint/visitor-keys@6.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/typescript-eslint/typescript-eslint",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@typescript-eslint\\visitor-keys",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@typescript-eslint\\visitor-keys\\LICENSE"
+  },
+  "@woltlab/zxcvbn@4.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/WoltLab/zxcvbn",
+    "publisher": "Dan Wheeler",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@woltlab\\zxcvbn",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\@woltlab\\zxcvbn\\LICENSE.txt"
+  },
+  "acorn-jsx@5.3.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/acornjs/acorn-jsx",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\acorn-jsx",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\acorn-jsx\\LICENSE"
+  },
+  "acorn@8.10.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/acornjs/acorn",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\acorn",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\acorn\\LICENSE"
+  },
+  "ajv@6.12.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ajv-validator/ajv",
+    "publisher": "Evgeny Poberezkin",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\ajv",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\ajv\\LICENSE"
+  },
+  "ansi-regex@5.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/ansi-regex",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\ansi-regex",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\ansi-regex\\license"
+  },
+  "ansi-styles@4.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/ansi-styles",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\ansi-styles",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\ansi-styles\\license"
+  },
+  "argparse@2.0.1": {
+    "licenses": "Python-2.0",
+    "repository": "https://github.com/nodeca/argparse",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\argparse",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\argparse\\LICENSE"
+  },
+  "array-union@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/array-union",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\array-union",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\array-union\\license"
+  },
+  "balanced-match@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/balanced-match",
+    "publisher": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\balanced-match",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\balanced-match\\LICENSE.md"
+  },
+  "brace-expansion@1.1.11": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/brace-expansion",
+    "publisher": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\brace-expansion",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\brace-expansion\\LICENSE"
+  },
+  "braces@3.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/braces",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\braces",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\braces\\LICENSE"
+  },
+  "callsites@3.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/callsites",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\callsites",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\callsites\\license"
+  },
+  "chalk@4.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/chalk",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\chalk",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\chalk\\license"
+  },
+  "ckeditor5@39.0.2": {
+    "licenses": "GPL-2.0-or-later",
+    "repository": "https://github.com/ckeditor/ckeditor5",
+    "publisher": "CKSource",
+    "url": "http://cksource.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\ckeditor5",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\ckeditor5\\LICENSE.md"
+  },
+  "color-convert@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Qix-/color-convert",
+    "publisher": "Heather Arthur",
+    "email": "fayearthur@gmail.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\color-convert",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\color-convert\\LICENSE"
+  },
+  "color-name@1.1.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/colorjs/color-name",
+    "publisher": "DY",
+    "email": "dfcreative@gmail.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\color-name",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\color-name\\LICENSE"
+  },
+  "color-parse@1.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/colorjs/color-parse",
+    "publisher": "Deema Ywanov",
+    "email": "df.creative@gmail.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\color-parse",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\color-parse\\LICENSE"
+  },
+  "concat-map@0.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/node-concat-map",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\concat-map",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\concat-map\\LICENSE"
+  },
+  "cross-spawn@7.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/moxystudio/node-cross-spawn",
+    "publisher": "Andr├й Cruz",
+    "email": "andre@moxy.studio",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\cross-spawn",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\cross-spawn\\LICENSE"
+  },
+  "debug@4.3.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/debug-js/debug",
+    "publisher": "Josh Junon",
+    "email": "josh.junon@protonmail.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\debug",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\debug\\LICENSE"
+  },
+  "deep-is@0.1.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/thlorenz/deep-is",
+    "publisher": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "http://thlorenz.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\deep-is",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\deep-is\\LICENSE"
+  },
+  "dir-glob@3.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kevva/dir-glob",
+    "publisher": "Kevin M├еrtensson",
+    "email": "kevinmartensson@gmail.com",
+    "url": "github.com/kevva",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\dir-glob",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\dir-glob\\license"
+  },
+  "doctrine@3.0.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/eslint/doctrine",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\doctrine",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\doctrine\\LICENSE"
+  },
+  "esbuild@0.19.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/evanw/esbuild",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\esbuild",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\esbuild\\LICENSE.md"
+  },
+  "escape-string-regexp@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/escape-string-regexp",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\escape-string-regexp",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\escape-string-regexp\\license"
+  },
+  "eslint-config-prettier@9.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/prettier/eslint-config-prettier",
+    "publisher": "Simon Lydell",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\eslint-config-prettier",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\eslint-config-prettier\\LICENSE"
+  },
+  "eslint-scope@7.2.2": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/eslint/eslint-scope",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\eslint-scope",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\eslint-scope\\LICENSE"
+  },
+  "eslint-visitor-keys@3.4.3": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/eslint/eslint-visitor-keys",
+    "publisher": "Toru Nagashima",
+    "url": "https://github.com/mysticatea",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\eslint-visitor-keys",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\eslint-visitor-keys\\LICENSE"
+  },
+  "eslint@8.48.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/eslint/eslint",
+    "publisher": "Nicholas C. Zakas",
+    "email": "nicholas+npm@nczconsulting.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\eslint",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\eslint\\LICENSE"
+  },
+  "espree@9.6.1": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/eslint/espree",
+    "publisher": "Nicholas C. Zakas",
+    "email": "nicholas+npm@nczconsulting.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\espree",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\espree\\LICENSE"
+  },
+  "esquery@1.5.0": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/estools/esquery",
+    "publisher": "Joel Feenstra",
+    "email": "jrfeenst+esquery@gmail.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\esquery",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\esquery\\license.txt"
+  },
+  "esrecurse@4.3.0": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/estools/esrecurse",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\esrecurse",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\esrecurse\\README.md"
+  },
+  "estraverse@5.3.0": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/estools/estraverse",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\estraverse",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\estraverse\\LICENSE.BSD"
+  },
+  "esutils@2.0.3": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/estools/esutils",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\esutils",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\esutils\\LICENSE.BSD"
+  },
+  "fast-deep-equal@3.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/epoberezkin/fast-deep-equal",
+    "publisher": "Evgeny Poberezkin",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\fast-deep-equal",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\fast-deep-equal\\LICENSE"
+  },
+  "fast-glob@3.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mrmlnc/fast-glob",
+    "publisher": "Denis Malinochkin",
+    "url": "https://mrmlnc.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\fast-glob",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\fast-glob\\LICENSE"
+  },
+  "fast-json-stable-stringify@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/epoberezkin/fast-json-stable-stringify",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\fast-json-stable-stringify",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\fast-json-stable-stringify\\LICENSE"
+  },
+  "fast-levenshtein@2.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/hiddentao/fast-levenshtein",
+    "publisher": "Ramesh Nair",
+    "email": "ram@hiddentao.com",
+    "url": "http://www.hiddentao.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\fast-levenshtein",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\fast-levenshtein\\LICENSE.md"
+  },
+  "fastq@1.13.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/mcollina/fastq",
+    "publisher": "Matteo Collina",
+    "email": "hello@matteocollina.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\fastq",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\fastq\\LICENSE"
+  },
+  "file-entry-cache@6.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/royriojas/file-entry-cache",
+    "publisher": "Roy Riojas",
+    "url": "http://royriojas.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\file-entry-cache",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\file-entry-cache\\LICENSE"
+  },
+  "fill-range@7.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/fill-range",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\fill-range",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\fill-range\\LICENSE"
+  },
+  "find-up@5.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/find-up",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\find-up",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\find-up\\license"
+  },
+  "flat-cache@3.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/royriojas/flat-cache",
+    "publisher": "Roy Riojas",
+    "url": "http://royriojas.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\flat-cache",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\flat-cache\\LICENSE"
+  },
+  "flatted@3.2.6": {
+    "licenses": "ISC",
+    "repository": "https://github.com/WebReflection/flatted",
+    "publisher": "Andrea Giammarchi",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\flatted",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\flatted\\LICENSE"
+  },
+  "focus-trap@7.5.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/focus-trap/focus-trap",
+    "publisher": "David Clark",
+    "url": "http://davidtheclark.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\focus-trap",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\focus-trap\\LICENSE"
+  },
+  "fs.realpath@1.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/fs.realpath",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\fs.realpath",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\fs.realpath\\LICENSE"
+  },
+  "glob-parent@5.1.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/gulpjs/glob-parent",
+    "publisher": "Gulp Team",
+    "email": "team@gulpjs.com",
+    "url": "https://gulpjs.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\fast-glob\\node_modules\\glob-parent",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\fast-glob\\node_modules\\glob-parent\\LICENSE"
+  },
+  "glob-parent@6.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/gulpjs/glob-parent",
+    "publisher": "Gulp Team",
+    "email": "team@gulpjs.com",
+    "url": "https://gulpjs.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\glob-parent",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\glob-parent\\LICENSE"
+  },
+  "glob@7.2.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-glob",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\glob",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\glob\\LICENSE"
+  },
+  "globals@13.21.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/globals",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\globals",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\globals\\license"
+  },
+  "globby@11.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/globby",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\globby",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\globby\\license"
+  },
+  "graphemer@1.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/flmnt/graphemer",
+    "publisher": "Matt Davies",
+    "email": "matt@filament.so",
+    "url": "https://github.com/mattpauldavies",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\graphemer",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\graphemer\\LICENSE"
+  },
+  "has-flag@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/has-flag",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\has-flag",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\has-flag\\license"
+  },
+  "html-parsed-element@0.4.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/WebReflection/html-parsed-element",
+    "publisher": "Andrea Giammarchi",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\html-parsed-element",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\html-parsed-element\\README.md"
+  },
+  "ignore@5.2.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kaelzhang/node-ignore",
+    "publisher": "kael",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\ignore",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\ignore\\LICENSE-MIT"
+  },
+  "import-fresh@3.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/import-fresh",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\import-fresh",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\import-fresh\\license"
+  },
+  "imurmurhash@0.1.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jensyt/imurmurhash-js",
+    "publisher": "Jens Taylor",
+    "email": "jensyt@gmail.com",
+    "url": "https://github.com/homebrewing",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\imurmurhash",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\imurmurhash\\README.md"
+  },
+  "inflight@1.0.6": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/inflight",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\inflight",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\inflight\\LICENSE"
+  },
+  "inherits@2.0.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/inherits",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\inherits",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\inherits\\LICENSE"
+  },
+  "is-extglob@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/is-extglob",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\is-extglob",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\is-extglob\\LICENSE"
+  },
+  "is-glob@4.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/is-glob",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\is-glob",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\is-glob\\LICENSE"
+  },
+  "is-number@7.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/is-number",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\is-number",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\is-number\\LICENSE"
+  },
+  "is-path-inside@3.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/is-path-inside",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\is-path-inside",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\is-path-inside\\license"
+  },
+  "isexe@2.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/isexe",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\isexe",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\isexe\\LICENSE"
+  },
+  "js-yaml@4.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nodeca/js-yaml",
+    "publisher": "Vladimir Zapparov",
+    "email": "dervus.grim@gmail.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\js-yaml",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\js-yaml\\LICENSE"
+  },
+  "json-schema-traverse@0.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/epoberezkin/json-schema-traverse",
+    "publisher": "Evgeny Poberezkin",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\json-schema-traverse",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\json-schema-traverse\\LICENSE"
+  },
+  "json-stable-stringify-without-jsonify@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/samn/json-stable-stringify",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\json-stable-stringify-without-jsonify",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\json-stable-stringify-without-jsonify\\LICENSE"
+  },
+  "kdbush@3.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/mourner/kdbush",
+    "publisher": "Vladimir Agafonkin",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\kdbush",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\kdbush\\LICENSE"
+  },
+  "levn@0.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/gkz/levn",
+    "publisher": "George Zahariev",
+    "email": "z@georgezahariev.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\levn",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\levn\\LICENSE"
+  },
+  "locate-path@6.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/locate-path",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\locate-path",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\locate-path\\license"
+  },
+  "lodash-es@4.17.21": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\lodash-es",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\lodash-es\\LICENSE"
+  },
+  "lodash.merge@4.6.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\lodash.merge",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\lodash.merge\\LICENSE"
+  },
+  "lru-cache@6.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-lru-cache",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\lru-cache",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\lru-cache\\LICENSE"
+  },
+  "merge2@1.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/teambition/merge2",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\merge2",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\merge2\\LICENSE"
+  },
+  "micromatch@4.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/micromatch",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\micromatch",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\micromatch\\LICENSE"
+  },
+  "minimatch@3.1.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/minimatch",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\minimatch",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\minimatch\\LICENSE"
+  },
+  "ms@2.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/zeit/ms",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\ms",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\ms\\license.md"
+  },
+  "natural-compare@1.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/litejs/natural-compare-lite",
+    "publisher": "Lauri Rooden",
+    "url": "https://github.com/litejs/natural-compare-lite",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\natural-compare",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\natural-compare\\README.md"
+  },
+  "once@1.4.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/once",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\once",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\once\\LICENSE"
+  },
+  "optionator@0.9.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/gkz/optionator",
+    "publisher": "George Zahariev",
+    "email": "z@georgezahariev.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\optionator",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\optionator\\LICENSE"
+  },
+  "p-limit@3.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/p-limit",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\p-limit",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\p-limit\\license"
+  },
+  "p-locate@5.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/p-locate",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\p-locate",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\p-locate\\license"
+  },
+  "parent-module@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/parent-module",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\parent-module",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\parent-module\\license"
+  },
+  "path-exists@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/path-exists",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\path-exists",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\path-exists\\license"
+  },
+  "path-is-absolute@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/path-is-absolute",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\path-is-absolute",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\path-is-absolute\\license"
+  },
+  "path-key@3.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/path-key",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\path-key",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\path-key\\license"
+  },
+  "path-type@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/path-type",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\path-type",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\path-type\\license"
+  },
+  "perfect-scrollbar@1.5.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mdbootstrap/perfect-scrollbar",
+    "publisher": "Hyunje Jun",
+    "email": "me@noraesae.net",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\perfect-scrollbar",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\perfect-scrollbar\\LICENSE"
+  },
+  "picomatch@2.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/picomatch",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\picomatch",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\picomatch\\LICENSE"
+  },
+  "prelude-ls@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/gkz/prelude-ls",
+    "publisher": "George Zahariev",
+    "email": "z@georgezahariev.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\prelude-ls",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\prelude-ls\\LICENSE"
+  },
+  "prettier@3.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/prettier/prettier",
+    "publisher": "James Long",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\prettier",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\prettier\\LICENSE"
+  },
+  "punycode@2.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mathiasbynens/punycode.js",
+    "publisher": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\punycode",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\punycode\\LICENSE-MIT.txt"
+  },
+  "qr-creator@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nimiq/qr-creator",
+    "publisher": "Nimiq",
+    "url": "www.nimiq.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\qr-creator",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\qr-creator\\LICENSE"
+  },
+  "queue-microtask@1.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/feross/queue-microtask",
+    "publisher": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "https://feross.org",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\queue-microtask",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\queue-microtask\\LICENSE"
+  },
+  "reflect-metadata@0.1.13": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/rbuckton/reflect-metadata",
+    "publisher": "Ron Buckton",
+    "email": "ron.buckton@microsoft.com",
+    "url": "http://github.com/rbuckton",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\reflect-metadata",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\reflect-metadata\\LICENSE"
+  },
+  "resolve-from@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/resolve-from",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\resolve-from",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\resolve-from\\license"
+  },
+  "reusify@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mcollina/reusify",
+    "publisher": "Matteo Collina",
+    "email": "hello@matteocollina.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\reusify",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\reusify\\LICENSE"
+  },
+  "rimraf@3.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/rimraf",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\rimraf",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\rimraf\\LICENSE"
+  },
+  "run-parallel@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/feross/run-parallel",
+    "publisher": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "https://feross.org",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\run-parallel",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\run-parallel\\LICENSE"
+  },
+  "semver@7.5.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/node-semver",
+    "publisher": "GitHub Inc.",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\semver",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\semver\\LICENSE"
+  },
+  "shebang-command@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kevva/shebang-command",
+    "publisher": "Kevin M├еrtensson",
+    "email": "kevinmartensson@gmail.com",
+    "url": "github.com/kevva",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\shebang-command",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\shebang-command\\license"
+  },
+  "shebang-regex@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/shebang-regex",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\shebang-regex",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\shebang-regex\\license"
+  },
+  "slash@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/slash",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\slash",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\slash\\license"
+  },
+  "strip-ansi@6.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/strip-ansi",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\strip-ansi",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\strip-ansi\\license"
+  },
+  "strip-json-comments@3.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/strip-json-comments",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\strip-json-comments",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\strip-json-comments\\license"
+  },
+  "supercluster@7.1.5": {
+    "licenses": "ISC",
+    "repository": "https://github.com/mapbox/supercluster",
+    "publisher": "Vladimir Agafonkin",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\supercluster",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\supercluster\\LICENSE"
+  },
+  "supports-color@7.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/supports-color",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\supports-color",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\supports-color\\license"
+  },
+  "tabbable@6.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/focus-trap/tabbable",
+    "publisher": "David Clark",
+    "url": "http://davidtheclark.com/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\tabbable",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\tabbable\\LICENSE"
+  },
+  "text-table@0.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/text-table",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\text-table",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\text-table\\LICENSE"
+  },
+  "to-regex-range@5.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/to-regex-range",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\to-regex-range",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\to-regex-range\\LICENSE"
+  },
+  "ts-api-utils@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/JoshuaKGoldberg/ts-api-utils",
+    "publisher": "Josh Goldberg",
+    "email": "npm@joshuakgoldberg.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\ts-api-utils",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\ts-api-utils\\LICENSE.md"
+  },
+  "tslib@2.6.2": {
+    "licenses": "0BSD",
+    "repository": "https://github.com/Microsoft/tslib",
+    "publisher": "Microsoft Corp.",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\tslib",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\tslib\\LICENSE.txt"
+  },
+  "type-check@0.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/gkz/type-check",
+    "publisher": "George Zahariev",
+    "email": "z@georgezahariev.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\type-check",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\type-check\\LICENSE"
+  },
+  "type-fest@0.20.2": {
+    "licenses": "(MIT OR CC0-1.0)",
+    "repository": "https://github.com/sindresorhus/type-fest",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\type-fest",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\type-fest\\license"
+  },
+  "typescript@5.2.2": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/Microsoft/TypeScript",
+    "publisher": "Microsoft Corp.",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\typescript",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\typescript\\LICENSE.txt"
+  },
+  "uri-js@4.4.1": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/garycourt/uri-js",
+    "publisher": "Gary Court",
+    "email": "gary.court@gmail.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\uri-js",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\uri-js\\LICENSE"
+  },
+  "vanilla-colorful@0.7.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/web-padawan/vanilla-colorful",
+    "publisher": "Serhii Kulykov",
+    "email": "iamkulykov@gmail.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\vanilla-colorful",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\vanilla-colorful\\LICENSE"
+  },
+  "which@2.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-which",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\which",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\which\\LICENSE"
+  },
+  "wrappy@1.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/wrappy",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\wrappy",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\wrappy\\LICENSE"
+  },
+  "yallist@4.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/yallist",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\yallist",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\yallist\\LICENSE"
+  },
+  "yocto-queue@0.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/yocto-queue",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\yocto-queue",
+    "licenseFile": "C:\\Users\\edena\\OneDrive\\╨а╨░╨▒╨╛╤З╨╕╨╣ ╤Б╤В╨╛╨╗\\╨Ы╨░╨▒╨╕\\╨б╨Ф╨Я╨б\\Lab1\\wcf_lab1\\node_modules\\yocto-queue\\license"
+  }
+}
+
